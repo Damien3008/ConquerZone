@@ -1,0 +1,33 @@
+Command issued: loadmap<USA.map>
+Command's effect: USA.map has been successfully loaded
+Command issued: validatemap
+Command's effect: The map has been validated
+Command issued: addplayer<player1>
+Command's effect: Player player1 has been successfully added to the game
+Command issued: addplayer<player2>
+Command's effect: Player player2 has been successfully added to the game
+Command issued: gamestart
+Command's effect: The game has started
+Command issued: gameend
+Command's effect: Invalid Command
+Command issued: quit
+Command's effect: Quitting the game
+Command issued: loadmap<World2007.map>
+Command's effect: World2007.map has been successfully loaded
+Inserted command: win into the list.
+Inserted command: something into the list.
+Command issued: validatemap
+Command's effect: The map has been validated
+Command issued: addplayer<p2>
+Command's effect: Player p2 has been successfully added to the game
+Command issued: gamestart
+Command's effect: The game has started
+Inserted command: testing into the list.
+Command issued: gameend
+Command's effect: Invalid Command
+Command issued: quit
+Command's effect: Quitting the game
+
+
+
+

@@ -1,0 +1,7 @@
+loadmap USA.map
+validatemap
+addplayer player1
+addplayer player2
+gamestart
+gameend
+quit
