@@ -1,4 +1,4 @@
-# Implementation-of-the-Risk-game-in-C-
+# ConquerZone: A Strategic War Game Development in C++
 The specific project is building a simple “Risk” computer game. The developed program
 will have to be compatible with the rules and map files and the command-line play of the “Warzone” version of
 Risk, which can be found at: https://www.warzone.com/. A Warzone game setup consists of a connected graph
